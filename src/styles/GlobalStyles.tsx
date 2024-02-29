@@ -11,7 +11,7 @@ export const GlobalStyles = StyleSheet.create(
     timer:{
       marginTop: -160,
       color: "aliceblue",
-      fontSize: 65,
+      fontSize: 60,
       fontWeight: "bold"
     },
     btnArea:{
